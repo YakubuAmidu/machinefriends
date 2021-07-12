@@ -1,22 +1,26 @@
 export const robots = [
   {
     id: 1,
-    name: 'Bret',
+    name: 'Leanne Graham',
+    username: 'Bret',
     email: 'sincere@april.biz',
   },
   {
     id: 2,
-    name: 'Bret',
+    name: 'Ervin Howell',
+    username: 'Antonette',
     email: 'sincere@april.biz',
   },
   {
-    id: 1,
-    name: 'Bret',
+    id: 3,
+    name: 'Clementine Bauch',
+    username: 'Samanta',
     email: 'sincere@april.biz',
   },
   {
-    id: 1,
-    name: 'Bret',
+    id: 4,
+    name: 'Patricia Bauch',
+    username: 'Karianne',
     email: 'sincere@april.biz',
   },
   {
