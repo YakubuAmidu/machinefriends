@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: linear-gradient(
-    to right,
+    to left,
     rgba(7, 27, 82, 1),
     rgba(0, 128, 128, 1) 100%
   );
